@@ -1,0 +1,10 @@
+/* RTL Style Sheet */
+
+
+/*Import*/
+
+@import URL('style.css');
+
+body{
+    direction: rtl;
+}
